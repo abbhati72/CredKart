@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login_001:test_CredKart_Login_001.py:16 inside test login 001
+[32mINFO    [0m test_login_001:test_CredKart_Login_001.py:25 inside test login 001 PASS
