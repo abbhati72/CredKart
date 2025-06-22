@@ -22,3 +22,32 @@
 2025-06-22 16:26:10,611 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
 2025-06-22 16:26:12,160 : INFO : test_login_001 : test_login_001 : 25 -->  inside test login 001 PASS
 2025-06-22 16:26:12,160 : INFO : test_login_001 : test_login_001 : 25 -->  inside test login 001 PASS
+2025-06-22 16:41:29,359 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 16:41:30,952 : INFO : test_login_001 : test_login_001 : 25 -->  inside test login 001 PASS
+2025-06-22 16:41:30,952 : INFO : test_login_001 : test_login_001 : 25 -->  inside test login 001 PASS
+2025-06-22 17:47:05,010 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 17:55:23,547 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 33 -->  test_title_cjeck_003
+2025-06-22 17:57:06,236 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 33 -->  test_title_cjeck_003
+2025-06-22 17:57:24,019 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 34 -->  test_title_cjeck_003
+2025-06-22 17:59:13,064 : INFO : test_login_001 : test_login_001 : 15 -->  inside test login 001
+2025-06-22 18:08:00,886 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 18:10:38,821 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 18:10:41,516 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:10:41,516 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:10:43,946 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 36 -->  test_title_cjeck_003
+2025-06-22 18:10:44,475 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:10:44,475 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:11:09,941 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 18:11:13,057 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:11:13,057 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:11:15,299 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 36 -->  test_title_cjeck_003
+2025-06-22 18:11:15,849 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:11:15,849 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:11:19,962 : INFO : test_registration_002 : test_registration_002 : 15 -->  test_registration_002
+2025-06-22 18:12:21,833 : INFO : test_login_001 : test_login_001 : 16 -->  inside test login 001
+2025-06-22 18:12:25,080 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:12:25,080 : INFO : test_login_001 : test_login_001 : 28 -->  inside test login 001 PASS
+2025-06-22 18:12:26,923 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 36 -->  test_title_cjeck_003
+2025-06-22 18:12:27,514 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:12:27,514 : INFO : test_title_cjeck_003 : test_title_cjeck_003 : 40 -->  test_title_cjeck_003_PASS
+2025-06-22 18:12:33,833 : INFO : test_registration_002 : test_registration_002 : 15 -->  test_registration_002

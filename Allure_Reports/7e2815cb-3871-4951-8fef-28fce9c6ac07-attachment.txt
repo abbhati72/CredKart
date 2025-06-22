@@ -1,0 +1,2 @@
+[32mINFO    [0m test_title_cjeck_003:test_CredKart_Login_001.py:36 test_title_cjeck_003
+[32mINFO    [0m test_title_cjeck_003:test_CredKart_Login_001.py:40 test_title_cjeck_003_PASS

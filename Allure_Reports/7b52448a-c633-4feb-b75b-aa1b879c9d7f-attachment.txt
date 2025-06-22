@@ -1,0 +1,1 @@
+[32mINFO    [0m test_registration_002:test_CredKart_Register_002.py:15 test_registration_002

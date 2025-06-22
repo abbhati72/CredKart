@@ -29,7 +29,6 @@ def driver_setup(request):
     else:
         print("Invalid browser")
 
-    driver.get(readconfig.ReadConfig.get_login_url())
     driver.maximize_window()
     request.cls.driver = driver
     yield driver
